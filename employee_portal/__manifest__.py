@@ -13,8 +13,8 @@
     'version': '1.0',
     'sequence': '1',
     'application': 'true',
-    'depends': ['website', 'employee_notification', 'hr_holidays', 'aarsol_hr_performace',
-                'odoocms_web_bootstrap', 'hr_attendance'],
+    'depends': ['website', 'employee_notification', 'hr_holidays',
+                'odoocms_web_bootstrap', 'hr_attendance'],  # 'aarsol_hr_performace'
     'data': [
         'views/assets.xml',
         'views/dashboard/employee_dashboard.xml',
