@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="1" class="java.lang.String" itemvalue="pytz" />
+            <item index="2" class="java.lang.String" itemvalue="requests" />
+            <item index="3" class="java.lang.String" itemvalue="xlrd" />
+            <item index="4" class="java.lang.String" itemvalue="docx" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bool.program_id" />
+          <option value="bool.batch_id" />
+          <option value="bool.career_id" />
+          <option value="bool.term_id" />
+          <option value="bool.institute_id" />
+          <option value="bool.discipline_id" />
+          <option value="bool.campus_id" />
+          <option value="bool.id" />
+          <option value="bool.failed_subject_ids" />
+          <option value="bool.to_improve_subject_ids" />
+          <option value="bool.filtered" />
+          <option value="bool.percentage_ids" />
+          <option value="bool.dinning_hall_id" />
+          <option value="bool.date_start" />
+          <option value="bool.date_end" />
+          <option value="bool.line_ids" />
+          <option value="bool.amount_toatl" />
+          <option value="bool.amount_total" />
+          <option value="bool.journal_id" />
+          <option value="bool.name" />
+          <option value="bool.shopify_order_number" />
+          <option value="bool.tracking_number" />
+          <option value="bool.invoice_ids" />
+          <option value="bool.date" />
+          <option value="bool.carrier_id" />
+          <option value="bool.__getitem__" />
+          <option value="bool.collection_id" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
